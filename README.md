@@ -7,4 +7,7 @@
 <https://www.itcodemonkey.com/article/7103.html>  
 <https://blog.csdn.net/mp624183768/article/details/81161260>  
 <https://www.cnblogs.com/TurboWay/p/9748535.html>  
+<https://www.cnblogs.com/TurboWay/p/9748535.html>
+
+AI:  
 <https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation>
