@@ -155,9 +155,9 @@ def video_add_mp3(file_name, mp3_file):
 
 
 if __name__ == '__main__':
-    INPUT = r"G:\py\学习python\视频到代码\video39.mp4"
-    OUTPUT = r"G:\py\学习python\视频到代码\video39_2.mp4"
-    SAVE = r"G:\py\学习python\视频到代码\\video39_3"
+    INPUT = r"/Users/zj/video/2018.mp4"
+    OUTPUT = r"/Users/zj/video/2018_1.mp4"
+    SAVE = r"/Users/zj/video/2018_2"
     FPS = "24"
     vc = video2txt_jpg(INPUT)
     FPS = vc.get(cv2.CAP_PROP_FPS)  # 获取帧率
